@@ -5,7 +5,7 @@
 * 👍👍 = 그 음식을 위해 30분 이상을 쓸만한 집
 * 👍👍👍 = 그 음식만을 위해 멀리서도 찾아갈만한 집
 
-***따봉 컴플레인은 [issue](https://github.com/suhak-ui-jeongseok/Jeongseok-Guide/issues)로**
+*따봉 컴플레인은 [issue](https://github.com/suhak-ui-jeongseok/Jeongseok-Guide/issues)로*
 
 ## 라멘
 ### [유즈라멘](https://store.naver.com/restaurants/detail?entry=plt&id=1539185460) 👍👍
