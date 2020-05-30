@@ -11,6 +11,13 @@
 ### [유즈라멘](https://store.naver.com/restaurants/detail?entry=plt&id=1539185460) 👍👍
 * 서울역 근처에 있음
 * 시오라멘 존맛탱, 은은한 유자향이 입맛을 돋움
+### [테이도우](https://store.naver.com/restaurants/detail?id=698517160) 👍👍
+[(메뉴판)](https://user-images.githubusercontent.com/8157830/83323119-ae85ff00-a297-11ea-9725-4c22c2c2ba4a.jpg)
+* 시청역 근처
+* 돈코츠라멘 국물 진하고 쇼유라멘에 유자 들어가는데 맛있음
+* 쇼유라멘에 차슈 대신에 삶은 닭고기가 들어가는데 익힘 정도가 딱 알맞아서 입에 넣으면 거의 풀어짐
+* 멘마(준숙)가 없어서 아쉬움
+* 사이드 메뉴에 닭껍질 튀김이 있는데 가능하면 꼭 먹어보자 맥주가 생각나는 맛
 
 ## 이북음식
 ### [능라도](https://neungrado.modoo.at/) 👍👍
