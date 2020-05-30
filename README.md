@@ -8,7 +8,7 @@
 *따봉 컴플레인은 [issue](https://github.com/suhak-ui-jeongseok/Jeongseok-Guide/issues)로*
 
 ## 라멘
-### [유즈라멘](https://store.naver.com/restaurants/detail?entry=plt&id=1539185460) 👍👍
+### [유즈라멘](https://store.naver.com/restaurants/detail?entry=plt&id=1539185460) 👍
 * 서울역 근처에 있음
 * 시오라멘 존맛탱, 은은한 유자향이 입맛을 돋움
 ### [테이도우](https://store.naver.com/restaurants/detail?id=698517160) 👍👍
