@@ -76,10 +76,6 @@
 * 가격대는 잔당 1.8만 정도 하는 듯, 위스키 숙성연수 높아지면 더 비싸지긴 함
 * 칵테일 맛집이라는데 정작 칵테일은 안마셔봄. 추후에 가는 사람 있으면 리뷰 보충 필요
 * 아마 바를 여기로 시작하면 눈이 너무 높아지지 않을까 싶음
-### [아라키](https://store.naver.com/restaurants/detail?id=398940249) 👍
-* 서울대입구, 샤로수길 초입 2층에 있음
-* 이자카야
-* 와사비 마요 새우 맛있음. 비싸다고 생각되는데 먹으면 가격에 대해 납득하는 맛 정도
 ### [안양하다](https://store.naver.com/restaurants/detail?id=1034270763) 👍
 * [(술 메뉴판)](https://user-images.githubusercontent.com/15344796/83323943-dfb4fe00-a29c-11ea-8c39-64a027b5cb60.jpg) / [(음식 메뉴판)](https://user-images.githubusercontent.com/15344796/83324084-adf06700-a29d-11ea-9239-521d278430e4.png)
 * 평촌 학원가 근처
