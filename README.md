@@ -8,6 +8,15 @@
 *따봉 컴플레인은 [issue](https://github.com/suhak-ui-jeongseok/Jeongseok-Guide/issues)로*
 게시자 기준 맛이 4.0/5.0을 넘는다고 생각되는 곳만 기록
 
+## 스시
+### [스시카이](https://map.naver.com/v5/search/%EC%8A%A4%EC%8B%9C%EC%B9%B4%EC%9D%B4/place/1027276564?c=14138772.3492302,4507725.2948092,13,0,0,0,dh&placePath=%3Fentry%253Dpll%2526) 👍👍
+* 서초역 1 번 출구 근처
+* 런치코스 4 만원 가성비 최고
+* 12:20, 13:20 이렇게 두 타임 있으니 시간 잘 맞춰서 가자
+* 재료가 신선해서 입안에서 녹아버림
+* 메뉴 구성도 괜찮고, 양도 많아서 배부르게 먹을 수 있음
+* 들어보면 맛이 주인장 컨디션 타는 것 같다고 하는데 아직은 모르겠다. 아마 계절, 날씨 탓 일 수도...
+
 ## 라멘
 ### [유즈라멘](https://store.naver.com/restaurants/detail?entry=plt&id=1539185460) 👍
 * 서울역 근처에 있음
